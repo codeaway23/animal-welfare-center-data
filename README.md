@@ -112,12 +112,13 @@ Accuracy: 54.20%
 
 ## Plots
 
-1. **Correlation matrix heatmap**
+1. **Correlation matrix heatmap**  
+
 ![correlation map](https://github.com/codeaway23/animal-welfare-center-data/blob/master/plots/corr_matrix_heatmap.png)
 
-2. **Grid search results**
+2. **Grid search results**  
 ![grid search results](https://github.com/codeaway23/animal-welfare-center-data/blob/master/plots/grid_search_results.png)
 
-3. **XGBoost top 10 features**
+3. **XGBoost top 10 features**  
 ![alt text](https://github.com/codeaway23/animal-welfare-center-data/blob/master/plots/xgb_top_10_features.png)
 
