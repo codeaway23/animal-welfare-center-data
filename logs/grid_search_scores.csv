@@ -1,0 +1,140 @@
+Unnamed: 0,key,params,f1_score
+101,XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 50}",0.6066084079622255
+84,XGBClassifier,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 1000}",0.6052702738181223
+97,XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}",0.6044546669664179
+100,XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 25}",0.5997670609443252
+96,XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}",0.5994117738769399
+88,XGBClassifier,"{'learning_rate': 0.01, 'max_depth': 4, 'n_estimators': 200}",0.5985119331559141
+25,GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 25}",0.5983034785926832
+13,GradientBoostingClassifier,"{'learning_rate': 0.01, 'max_depth': 4, 'n_estimators': 200}",0.5979893087254605
+79,XGBClassifier,"{'learning_rate': 0.01, 'max_depth': 2, 'n_estimators': 1000}",0.5978426508481105
+92,XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 2, 'n_estimators': 100}",0.5978009730607633
+89,XGBClassifier,"{'learning_rate': 0.01, 'max_depth': 4, 'n_estimators': 1000}",0.5972190002354307
+20,GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 25}",0.5967340602302111
+21,GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}",0.5959833848100174
+102,XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 100}",0.5957131506875849
+4,GradientBoostingClassifier,"{'learning_rate': 0.01, 'max_depth': 2, 'n_estimators': 1000}",0.5955439637012537
+16,GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 2, 'n_estimators': 50}",0.5947264822491137
+17,GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 2, 'n_estimators': 100}",0.5939965020040899
+93,XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 2, 'n_estimators': 200}",0.5937666880637393
+87,XGBClassifier,"{'learning_rate': 0.01, 'max_depth': 4, 'n_estimators': 100}",0.5917963690527847
+8,GradientBoostingClassifier,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 200}",0.5913991928702438
+98,XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 200}",0.5909029596117551
+95,XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 25}",0.5898713787143129
+26,GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 50}",0.5885803833770121
+9,GradientBoostingClassifier,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 1000}",0.5881627062954106
+22,GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}",0.5874514835962324
+12,GradientBoostingClassifier,"{'learning_rate': 0.01, 'max_depth': 4, 'n_estimators': 100}",0.5868593277731745
+18,GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 2, 'n_estimators': 200}",0.5866564970689275
+83,XGBClassifier,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 200}",0.5849130502242325
+91,XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 2, 'n_estimators': 50}",0.5835124237614857
+105,XGBClassifier,"{'learning_rate': 1.0, 'max_depth': 2, 'n_estimators': 25}",0.5809870784602985
+15,GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 2, 'n_estimators': 25}",0.5778856924301422
+103,XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 200}",0.5767015767431493
+14,GradientBoostingClassifier,"{'learning_rate': 0.01, 'max_depth': 4, 'n_estimators': 1000}",0.5763455518757048
+27,GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 100}",0.575696927897875
+7,GradientBoostingClassifier,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100}",0.5743697837536922
+23,GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 200}",0.5743160447579357
+110,XGBClassifier,"{'learning_rate': 1.0, 'max_depth': 3, 'n_estimators': 25}",0.5727469873729035
+86,XGBClassifier,"{'learning_rate': 0.01, 'max_depth': 4, 'n_estimators': 50}",0.5727184118012316
+82,XGBClassifier,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100}",0.5726957488358891
+3,GradientBoostingClassifier,"{'learning_rate': 0.01, 'max_depth': 2, 'n_estimators': 200}",0.5721114734785457
+11,GradientBoostingClassifier,"{'learning_rate': 0.01, 'max_depth': 4, 'n_estimators': 50}",0.5697479782680669
+94,XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 2, 'n_estimators': 1000}",0.5690882540604157
+19,GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 2, 'n_estimators': 1000}",0.5683763894696425
+106,XGBClassifier,"{'learning_rate': 1.0, 'max_depth': 2, 'n_estimators': 50}",0.5679158057882613
+125,MLPClassifier,"{'activation': 'tanh', 'hidden_layer_sizes': (8,)}",0.5652734859200821
+85,XGBClassifier,"{'learning_rate': 0.01, 'max_depth': 4, 'n_estimators': 25}",0.5638914185768851
+107,XGBClassifier,"{'learning_rate': 1.0, 'max_depth': 2, 'n_estimators': 100}",0.5614732457543261
+28,GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 200}",0.5600936320473019
+115,XGBClassifier,"{'learning_rate': 1.0, 'max_depth': 4, 'n_estimators': 25}",0.5580014356679626
+10,GradientBoostingClassifier,"{'learning_rate': 0.01, 'max_depth': 4, 'n_estimators': 25}",0.5573244264462524
+90,XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 2, 'n_estimators': 25}",0.5549998391398038
+111,XGBClassifier,"{'learning_rate': 1.0, 'max_depth': 3, 'n_estimators': 50}",0.5543620768042073
+136,SVC,"{'C': 10, 'gamma': 0.01}",0.5535583514023413
+99,XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 1000}",0.5523141902735502
+74,RandomForestClassifier,"{'criterion': 'entropy', 'max_depth': 4, 'n_estimators': 1000}",0.5515676589527244
+133,SVC,"{'C': 5, 'gamma': 0.01}",0.5505038206556914
+73,RandomForestClassifier,"{'criterion': 'entropy', 'max_depth': 4, 'n_estimators': 200}",0.5493503582685161
+59,RandomForestClassifier,"{'criterion': 'gini', 'max_depth': 4, 'n_estimators': 1000}",0.5477804409797328
+81,XGBClassifier,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 50}",0.5471550720890613
+78,XGBClassifier,"{'learning_rate': 0.01, 'max_depth': 2, 'n_estimators': 200}",0.5466731434615831
+57,RandomForestClassifier,"{'criterion': 'gini', 'max_depth': 4, 'n_estimators': 100}",0.5464835554387405
+6,GradientBoostingClassifier,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 50}",0.5461919696916308
+34,GradientBoostingClassifier,"{'learning_rate': 1.0, 'max_depth': 2, 'n_estimators': 1000}",0.5455863388247374
+32,GradientBoostingClassifier,"{'learning_rate': 1.0, 'max_depth': 2, 'n_estimators': 100}",0.5454189765594766
+33,GradientBoostingClassifier,"{'learning_rate': 1.0, 'max_depth': 2, 'n_estimators': 200}",0.5453562084872826
+108,XGBClassifier,"{'learning_rate': 1.0, 'max_depth': 2, 'n_estimators': 200}",0.5452639541630115
+58,RandomForestClassifier,"{'criterion': 'gini', 'max_depth': 4, 'n_estimators': 200}",0.5449349187395245
+31,GradientBoostingClassifier,"{'learning_rate': 1.0, 'max_depth': 2, 'n_estimators': 50}",0.5446448335004935
+104,XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 1000}",0.5443860649697599
+56,RandomForestClassifier,"{'criterion': 'gini', 'max_depth': 4, 'n_estimators': 50}",0.5440568667932596
+72,RandomForestClassifier,"{'criterion': 'entropy', 'max_depth': 4, 'n_estimators': 100}",0.5434524345433439
+30,GradientBoostingClassifier,"{'learning_rate': 1.0, 'max_depth': 2, 'n_estimators': 25}",0.5433267328580034
+71,RandomForestClassifier,"{'criterion': 'entropy', 'max_depth': 4, 'n_estimators': 50}",0.5418613967742595
+116,XGBClassifier,"{'learning_rate': 1.0, 'max_depth': 4, 'n_estimators': 50}",0.5418531162667466
+24,GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 1000}",0.5416637880715273
+2,GradientBoostingClassifier,"{'learning_rate': 0.01, 'max_depth': 2, 'n_estimators': 100}",0.5400210379720176
+112,XGBClassifier,"{'learning_rate': 1.0, 'max_depth': 3, 'n_estimators': 100}",0.538297655156692
+130,SVC,"{'C': 1, 'gamma': 0.01}",0.5380757109477965
+77,XGBClassifier,"{'learning_rate': 0.01, 'max_depth': 2, 'n_estimators': 100}",0.5379073023300983
+5,GradientBoostingClassifier,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 25}",0.5375528211888209
+65,RandomForestClassifier,"{'criterion': 'entropy', 'max_depth': 3, 'n_estimators': 25}",0.5348109191116195
+80,XGBClassifier,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 25}",0.5340590833049625
+29,GradientBoostingClassifier,"{'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 1000}",0.5333178058237459
+67,RandomForestClassifier,"{'criterion': 'entropy', 'max_depth': 3, 'n_estimators': 100}",0.5321150570810246
+1,GradientBoostingClassifier,"{'learning_rate': 0.01, 'max_depth': 2, 'n_estimators': 50}",0.5313378907301353
+70,RandomForestClassifier,"{'criterion': 'entropy', 'max_depth': 4, 'n_estimators': 25}",0.5310256258895109
+66,RandomForestClassifier,"{'criterion': 'entropy', 'max_depth': 3, 'n_estimators': 50}",0.5304185103251119
+126,MLPClassifier,"{'activation': 'tanh', 'hidden_layer_sizes': (16,)}",0.5302874371536636
+55,RandomForestClassifier,"{'criterion': 'gini', 'max_depth': 4, 'n_estimators': 25}",0.5296428099174876
+127,MLPClassifier,"{'activation': 'tanh', 'hidden_layer_sizes': (32,)}",0.5296186681224463
+113,XGBClassifier,"{'learning_rate': 1.0, 'max_depth': 3, 'n_estimators': 200}",0.5295108130221539
+76,XGBClassifier,"{'learning_rate': 0.01, 'max_depth': 2, 'n_estimators': 50}",0.5291621733389671
+137,SVC,"{'C': 10, 'gamma': 0.001}",0.5284312888001903
+117,XGBClassifier,"{'learning_rate': 1.0, 'max_depth': 4, 'n_estimators': 100}",0.5284011775236509
+37,GradientBoostingClassifier,"{'learning_rate': 1.0, 'max_depth': 3, 'n_estimators': 100}",0.5276191397236581
+38,GradientBoostingClassifier,"{'learning_rate': 1.0, 'max_depth': 3, 'n_estimators': 200}",0.5275982122206634
+39,GradientBoostingClassifier,"{'learning_rate': 1.0, 'max_depth': 3, 'n_estimators': 1000}",0.5275563769043524
+35,GradientBoostingClassifier,"{'learning_rate': 1.0, 'max_depth': 3, 'n_estimators': 25}",0.52734716094344
+36,GradientBoostingClassifier,"{'learning_rate': 1.0, 'max_depth': 3, 'n_estimators': 50}",0.5272844046873604
+128,MLPClassifier,"{'activation': 'tanh', 'hidden_layer_sizes': (64,)}",0.5263944398431414
+0,GradientBoostingClassifier,"{'learning_rate': 0.01, 'max_depth': 2, 'n_estimators': 25}",0.5257740325748875
+52,RandomForestClassifier,"{'criterion': 'gini', 'max_depth': 3, 'n_estimators': 100}",0.5256692544961336
+69,RandomForestClassifier,"{'criterion': 'entropy', 'max_depth': 3, 'n_estimators': 1000}",0.5255250713068826
+51,RandomForestClassifier,"{'criterion': 'gini', 'max_depth': 3, 'n_estimators': 50}",0.5255211945879359
+75,XGBClassifier,"{'learning_rate': 0.01, 'max_depth': 2, 'n_estimators': 25}",0.5254182492826149
+54,RandomForestClassifier,"{'criterion': 'gini', 'max_depth': 3, 'n_estimators': 1000}",0.5245389264258337
+68,RandomForestClassifier,"{'criterion': 'entropy', 'max_depth': 3, 'n_estimators': 200}",0.5237467520414256
+53,RandomForestClassifier,"{'criterion': 'gini', 'max_depth': 3, 'n_estimators': 200}",0.5229909160152766
+134,SVC,"{'C': 5, 'gamma': 0.001}",0.5226573232514156
+50,RandomForestClassifier,"{'criterion': 'gini', 'max_depth': 3, 'n_estimators': 25}",0.519432677292533
+61,RandomForestClassifier,"{'criterion': 'entropy', 'max_depth': 2, 'n_estimators': 50}",0.5170522598149637
+49,RandomForestClassifier,"{'criterion': 'gini', 'max_depth': 2, 'n_estimators': 1000}",0.5150197071237722
+48,RandomForestClassifier,"{'criterion': 'gini', 'max_depth': 2, 'n_estimators': 200}",0.5120917153501711
+109,XGBClassifier,"{'learning_rate': 1.0, 'max_depth': 2, 'n_estimators': 1000}",0.5106837049039186
+64,RandomForestClassifier,"{'criterion': 'entropy', 'max_depth': 2, 'n_estimators': 1000}",0.5075549460692548
+129,MLPClassifier,"{'activation': 'tanh', 'hidden_layer_sizes': (128,)}",0.5072339212883831
+131,SVC,"{'C': 1, 'gamma': 0.001}",0.5064652768356123
+118,XGBClassifier,"{'learning_rate': 1.0, 'max_depth': 4, 'n_estimators': 200}",0.5064170316927449
+63,RandomForestClassifier,"{'criterion': 'entropy', 'max_depth': 2, 'n_estimators': 200}",0.5062576981539689
+46,RandomForestClassifier,"{'criterion': 'gini', 'max_depth': 2, 'n_estimators': 50}",0.506004699682851
+60,RandomForestClassifier,"{'criterion': 'entropy', 'max_depth': 2, 'n_estimators': 25}",0.5052952784070411
+119,XGBClassifier,"{'learning_rate': 1.0, 'max_depth': 4, 'n_estimators': 1000}",0.5039044434403664
+62,RandomForestClassifier,"{'criterion': 'entropy', 'max_depth': 2, 'n_estimators': 100}",0.5017810631756024
+122,MLPClassifier,"{'activation': 'relu', 'hidden_layer_sizes': (32,)}",0.5010913666160951
+138,SVC,"{'C': 10, 'gamma': 0.0001}",0.5000430877119463
+47,RandomForestClassifier,"{'criterion': 'gini', 'max_depth': 2, 'n_estimators': 100}",0.5000208867585064
+123,MLPClassifier,"{'activation': 'relu', 'hidden_layer_sizes': (64,)}",0.4995212289136519
+114,XGBClassifier,"{'learning_rate': 1.0, 'max_depth': 3, 'n_estimators': 1000}",0.4991981546712892
+121,MLPClassifier,"{'activation': 'relu', 'hidden_layer_sizes': (16,)}",0.4982459598183016
+45,RandomForestClassifier,"{'criterion': 'gini', 'max_depth': 2, 'n_estimators': 25}",0.4960440244931116
+135,SVC,"{'C': 5, 'gamma': 0.0001}",0.4947286621300949
+124,MLPClassifier,"{'activation': 'relu', 'hidden_layer_sizes': (128,)}",0.4918022237257544
+120,MLPClassifier,"{'activation': 'relu', 'hidden_layer_sizes': (8,)}",0.479477529064455
+132,SVC,"{'C': 1, 'gamma': 0.0001}",0.4608139365863946
+40,GradientBoostingClassifier,"{'learning_rate': 1.0, 'max_depth': 4, 'n_estimators': 25}",0.2242447471000837
+42,GradientBoostingClassifier,"{'learning_rate': 1.0, 'max_depth': 4, 'n_estimators': 100}",0.22303118025975147
+43,GradientBoostingClassifier,"{'learning_rate': 1.0, 'max_depth': 4, 'n_estimators': 200}",0.22284286553739385
+41,GradientBoostingClassifier,"{'learning_rate': 1.0, 'max_depth': 4, 'n_estimators': 50}",0.2225708591766297
+44,GradientBoostingClassifier,"{'learning_rate': 1.0, 'max_depth': 4, 'n_estimators': 1000}",0.2222360821172277
